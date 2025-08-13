@@ -18,7 +18,7 @@
 
 - :school: I am a `Senior` at [University of Rochester](https://www.rochester.edu/). Currently I am doing `SWE internship` at [Ticketmaster](https://www.ticketmaster.com/)
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces` `Leetcode`, `Codechef`.
+- :computer: I am a competitive programmer at `CodeSignal` `Leetcode`, `HackerRank`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - 📫 Feel free reach out to me at: edwin [dot] gao28 [at] gmail [dot] com</a>
@@ -170,8 +170,6 @@
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)
-
 </div>
 
 ---
