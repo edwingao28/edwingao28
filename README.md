@@ -11,9 +11,6 @@
 
 	
 ## 👋 About me
-
-
-
 <br><br>
 
 - :school: I am a `Senior` at [University of Rochester](https://www.rochester.edu/). Currently I am doing `SWE internship` at [Ticketmaster](https://www.ticketmaster.com/)
