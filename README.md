@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Edwin Gao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Wenyao Gao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300A6FF&size=25&center=true&vCenter=true&width=600&height=100&lines=CS+Student+@UofR;Backend+And+Full-Stack+Developer;Software+Engineer+in+Making;Cloud+Computing+Enthusiast;Machine+Learning+Learner;Building+Scalable+Systems;Always+Learning+New+Things">
